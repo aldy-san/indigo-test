@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Rock
+  - Bishop
+  - Knight
+  - Dragon
+  - empty
   layers:
   - Default
   - TransparentFX
